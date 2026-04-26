@@ -1,0 +1,15 @@
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\obj\Debug\net10.0\tpmodul8_103082400026.GeneratedMSBuildEditorConfig.editorconfig
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\obj\Debug\net10.0\tpmodul8_103082400026.AssemblyInfoInputs.cache
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\obj\Debug\net10.0\tpmodul8_103082400026.AssemblyInfo.cs
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\obj\Debug\net10.0\tpmodul8_103082400026.csproj.CoreCompileInputs.cache
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\obj\Debug\net10.0\tpmodul8_103082400026.sourcelink.json
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\bin\Debug\net10.0\tpmodul8_103082400026.exe
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\bin\Debug\net10.0\tpmodul8_103082400026.deps.json
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\bin\Debug\net10.0\tpmodul8_103082400026.runtimeconfig.json
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\bin\Debug\net10.0\tpmodul8_103082400026.dll
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\bin\Debug\net10.0\tpmodul8_103082400026.pdb
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\obj\Debug\net10.0\tpmodul8_103082400026.dll
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\obj\Debug\net10.0\refint\tpmodul8_103082400026.dll
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\obj\Debug\net10.0\tpmodul8_103082400026.pdb
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\obj\Debug\net10.0\tpmodul8_103082400026.genruntimeconfig.cache
+D:\PraktikumKpl\PKMKontruksiPL1\tpmodul8_103082400026\tpmodul8_103082400026\obj\Debug\net10.0\ref\tpmodul8_103082400026.dll
